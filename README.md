@@ -2,7 +2,7 @@
 Pytorch implementation of FPN
 
 ### FPN architecture
-![image](https://github.com/chuzcjoe/crowd-tracking-and-visualizing-from-top-view/raw/master/indi.png)
+![image](https://github.com/chuzcjoe/FPN-Pytorch/raw/master/fpn.py)
 
 ### Updates:
 1. update F.upsample function <br>
